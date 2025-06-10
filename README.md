@@ -15,7 +15,7 @@ The framework consists of:
 - **Phase II**: Privacy-Relevant Node Filter and Summarization - identifies critical nodes using six distinct patterns and generates specialized subgraphs
 - **Phase III**: Permission Description Synthesis - executes parallel analysis across three branches and synthesizes final descriptions
 
-For detailed implementation information, see our [Code Structure Documentation](code_structure_readme.md).
+For detailed implementation information, see our [Code Structure Documentation](https://github.com/AppBDS/AppBDS/blob/main/code/appbds/README.md).
 
 ## Evaluation Results
 
