@@ -1,0 +1,5504 @@
+[
+  {
+    "appId": "air.com.mconline.sg.picturedictionary",
+    "pp_category": "MICROPHONE",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.8583946228027344,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.7325493097305298,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 2.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.8811681270599365,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.8419628143310547,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.8632132411003113,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 5.0
+      },
+      "qwen3": {
+        "bert_score": 0.8765215873718262,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 4.0
+      }
+    }
+  },
+  {
+    "appId": "and.netgps",
+    "pp_category": "LOCATION",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.8291643857955933,
+        "richness": 6.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.8047369122505188,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 5.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.8694236278533936,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.7600163817405701,
+        "richness": 3.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.7540982365608215,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "qwen3": {
+        "bert_score": 0.9007612466812134,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "app.georadius.gpsplatform",
+    "pp_category": "LOCATION",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.8240631222724915,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 4.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.5354201197624207,
+        "richness": 6.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.9409462213516235,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 4.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.9284754991531372,
+        "richness": 6.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 3.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.9266827702522278,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 3.0
+      },
+      "qwen3": {
+        "bert_score": 0.8797390460968018,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 3.0
+      }
+    }
+  },
+  {
+    "appId": "app.tools.soundmeter.decibel.noisedetector",
+    "pp_category": "MICROPHONE",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.795392632484436,
+        "richness": 2.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 0.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.8642386198043823,
+        "richness": 0.0,
+        "specificity": 10.0,
+        "semantic_relatedness": 0.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.9164304733276367,
+        "richness": 2.0,
+        "specificity": 3.0,
+        "semantic_relatedness": 0.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.5690847039222717,
+        "richness": 0.0,
+        "specificity": 0.0,
+        "semantic_relatedness": 0.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.8049398064613342,
+        "richness": 3.0,
+        "specificity": 2.0,
+        "semantic_relatedness": 0.0
+      },
+      "qwen3": {
+        "bert_score": 0.7580934762954712,
+        "richness": 3.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 0.0
+      }
+    }
+  },
+  {
+    "appId": "appinventor.ai_CorwinRMXP.Naheulbeuk",
+    "pp_category": "STORAGE",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.6642130017280579,
+        "richness": 0.0,
+        "specificity": 0.0,
+        "semantic_relatedness": 0.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.823054850101471,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 4.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.8140525817871094,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.8370518684387207,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.7679758071899414,
+        "richness": 9.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 5.0
+      },
+      "qwen3": {
+        "bert_score": 0.8308793306350708,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 3.0
+      }
+    }
+  },
+  {
+    "appId": "arkeo.gunsounds",
+    "pp_category": "STORAGE",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.6905744075775146,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 4.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.8414870500564575,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 4.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.825488269329071,
+        "richness": 10.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 4.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.8545089960098267,
+        "richness": 10.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 3.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.725658118724823,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 4.0
+      },
+      "qwen3": {
+        "bert_score": 0.6957656145095825,
+        "richness": 9.0,
+        "specificity": 10.0,
+        "semantic_relatedness": 3.0
+      }
+    }
+  },
+  {
+    "appId": "au.droidblitz.birthdaycards",
+    "pp_category": "CALENDAR",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.8370521068572998,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.8543820381164551,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 3.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.8621213436126709,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.7667254209518433,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.9204415082931519,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      },
+      "qwen3": {
+        "bert_score": 0.5864142775535583,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "au.edu.sa.cbhs.schoolapp",
+    "pp_category": "STORAGE",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.8011411428451538,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.9236752986907959,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 3.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.7156100869178772,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.5801565647125244,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 8.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.7662886381149292,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "qwen3": {
+        "bert_score": 0.8710014820098877,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 3.0
+      }
+    }
+  },
+  {
+    "appId": "axiom.malayalam.troll",
+    "pp_category": "STORAGE",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.7794744372367859,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.7175792455673218,
+        "richness": 10.0,
+        "specificity": 10.0,
+        "semantic_relatedness": 5.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.7718245983123779,
+        "richness": 10.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 9.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.549660325050354,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.800567626953125,
+        "richness": 10.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 9.0
+      },
+      "qwen3": {
+        "bert_score": 0.46161970496177673,
+        "richness": 10.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      }
+    }
+  },
+  {
+    "appId": "batman.android.addressbook",
+    "pp_category": "LOCATION",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.8120396733283997,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 4.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.8364855051040649,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 3.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.8820429444313049,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 3.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.8487961888313293,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 4.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.9330675601959229,
+        "richness": 9.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 4.0
+      },
+      "qwen3": {
+        "bert_score": 0.7553419470787048,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 4.0
+      }
+    }
+  },
+  {
+    "appId": "be.appsolution.sportmagnl.tablet",
+    "pp_category": "STORAGE",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.7547589540481567,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.8472568392753601,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.9262927770614624,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.7268523573875427,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.8051279783248901,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 8.0
+      },
+      "qwen3": {
+        "bert_score": 0.794578492641449,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      }
+    }
+  },
+  {
+    "appId": "br.com.mobiltec.c4m.android.agent",
+    "pp_category": "LOCATION",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.737373411655426,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.5866982936859131,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.9472880363464355,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.9309937953948975,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.7679409384727478,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 3.0
+      },
+      "qwen3": {
+        "bert_score": 0.7769994139671326,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      }
+    }
+  },
+  {
+    "appId": "ca.bell.selfserve.mybellmobile",
+    "pp_category": "STORAGE",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.8123657703399658,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.7995371222496033,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 3.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.9121566414833069,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.8742177486419678,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 4.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.9293279647827148,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 4.0
+      },
+      "qwen3": {
+        "bert_score": 0.8654486536979675,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      }
+    }
+  },
+  {
+    "appId": "ca.skipthedishes.dashboard",
+    "pp_category": "LOCATION",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.6490049362182617,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.8286311626434326,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 2.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.8786522150039673,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.9188058376312256,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.8955315947532654,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 4.0
+      },
+      "qwen3": {
+        "bert_score": 0.8586925268173218,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 3.0
+      }
+    }
+  },
+  {
+    "appId": "cc.mannam.audio4bible.nkjv.peter21",
+    "pp_category": "STORAGE",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.8167047500610352,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.8407105207443237,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 9.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.8591620326042175,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.8994529843330383,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.7744805812835693,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 8.0
+      },
+      "qwen3": {
+        "bert_score": 0.7630048394203186,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      }
+    }
+  },
+  {
+    "appId": "cctv.bohlamp.app",
+    "pp_category": "STORAGE",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.7951739430427551,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 3.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.8135617971420288,
+        "richness": 3.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 0.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.8763912320137024,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 4.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.8322116136550903,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 2.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.8914816379547119,
+        "richness": 6.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      },
+      "qwen3": {
+        "bert_score": 0.8669252395629883,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 2.0
+      }
+    }
+  },
+  {
+    "appId": "co.bonx.go",
+    "pp_category": "MICROPHONE",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.8108242750167847,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.8111676573753357,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.7248849272727966,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.6102845668792725,
+        "richness": 6.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.6736358404159546,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 5.0
+      },
+      "qwen3": {
+        "bert_score": 0.7439786791801453,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "co.mwater.clientapp",
+    "pp_category": "CAMERA",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.7740494608879089,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 3.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.4384653568267822,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 3.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.9021688103675842,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 3.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.8880106210708618,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 5.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.8606347441673279,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 5.0
+      },
+      "qwen3": {
+        "bert_score": 0.7649315595626831,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      }
+    }
+  },
+  {
+    "appId": "com.Protect_Utilities.AppLock_Security",
+    "pp_category": "CONTACT",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.7405239343643188,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 4.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.8061337471008301,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 4.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.7868077754974365,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.9029558300971985,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.9082691669464111,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "qwen3": {
+        "bert_score": 0.8862016201019287,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      }
+    }
+  },
+  {
+    "appId": "com.abclocal.wpvi.news",
+    "pp_category": "LOCATION",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.8044058680534363,
+        "richness": 6.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.7745011448860168,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.9484456777572632,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.9145976305007935,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.7928319573402405,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 6.0
+      },
+      "qwen3": {
+        "bert_score": 0.92012619972229,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      }
+    }
+  },
+  {
+    "appId": "com.adorecommu",
+    "pp_category": "CAMERA",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.6866097450256348,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.7834468483924866,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.8370131254196167,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 8.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.900930643081665,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.9157102704048157,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 5.0
+      },
+      "qwen3": {
+        "bert_score": 0.7149585485458374,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      }
+    }
+  },
+  {
+    "appId": "com.allsuitanarkalidress.photosuit",
+    "pp_category": "CAMERA",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.8394739627838135,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.8030957579612732,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.8647850155830383,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.8536950349807739,
+        "richness": 10.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.7439795136451721,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 5.0
+      },
+      "qwen3": {
+        "bert_score": 0.9353516101837158,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "com.almoshaf.alsharefLite",
+    "pp_category": "MICROPHONE",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.7650147676467896,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.7385759949684143,
+        "richness": 10.0,
+        "specificity": 10.0,
+        "semantic_relatedness": 9.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.6997798085212708,
+        "richness": 10.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 10.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.7637367248535156,
+        "richness": 9.0,
+        "specificity": 10.0,
+        "semantic_relatedness": 10.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.764564573764801,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 9.0
+      },
+      "qwen3": {
+        "bert_score": 0.6793481111526489,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      }
+    }
+  },
+  {
+    "appId": "com.alpha.delta.tifnit4",
+    "pp_category": "STORAGE",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.7496041059494019,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.5849264860153198,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 4.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.7839270830154419,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 3.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.9241231679916382,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.8498467803001404,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 5.0
+      },
+      "qwen3": {
+        "bert_score": 0.7540037035942078,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 3.0
+      }
+    }
+  },
+  {
+    "appId": "com.androidwasabi.livewallpaper.snowfall",
+    "pp_category": "STORAGE",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.7127732634544373,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.7377185821533203,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 0.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.8962071537971497,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.5207886695861816,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.9552894234657288,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 7.0
+      },
+      "qwen3": {
+        "bert_score": 0.861929178237915,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 3.0
+      }
+    }
+  },
+  {
+    "appId": "com.antiapps.polishRack2",
+    "pp_category": "STORAGE",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.7506307363510132,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.8006528615951538,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 3.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.8011736273765564,
+        "richness": 9.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.5429721474647522,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.8284093141555786,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      },
+      "qwen3": {
+        "bert_score": 0.8739170432090759,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 3.0
+      }
+    }
+  },
+  {
+    "appId": "com.applixgroup.demoar",
+    "pp_category": "STORAGE",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.6995986700057983,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.8942652940750122,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 5.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.7569038271903992,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.9239755272865295,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 6.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.9556981921195984,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 8.0
+      },
+      "qwen3": {
+        "bert_score": 0.8833030462265015,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      }
+    }
+  },
+  {
+    "appId": "com.appstory.extractor",
+    "pp_category": "STORAGE",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.7243401408195496,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 4.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.8154298663139343,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 3.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.8174551725387573,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.5311852097511292,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.890023946762085,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "qwen3": {
+        "bert_score": 0.7227997779846191,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 3.0
+      }
+    }
+  },
+  {
+    "appId": "com.apptree.ducasse.live",
+    "pp_category": "LOCATION",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.7714154124259949,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.3550087809562683,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 4.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.8427651524543762,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.9324039220809937,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.9520650506019592,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "qwen3": {
+        "bert_score": 0.8753764629364014,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      }
+    }
+  },
+  {
+    "appId": "com.atsdev.policesuitcamera",
+    "pp_category": "STORAGE",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.8833471536636353,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.8893915414810181,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.9317512512207031,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.9014044404029846,
+        "richness": 6.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 5.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.4426959455013275,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 4.0
+      },
+      "qwen3": {
+        "bert_score": 0.8068339824676514,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      }
+    }
+  },
+  {
+    "appId": "com.autocab.taxibooker.taxisdealmada.almada",
+    "pp_category": "LOCATION",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.6479790806770325,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.8303920030593872,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.8308545351028442,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.6316259503364563,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 8.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.7912847995758057,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "qwen3": {
+        "bert_score": 0.7412520051002502,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      }
+    }
+  },
+  {
+    "appId": "com.bicycletransit.MetroBikeShare",
+    "pp_category": "LOCATION",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.7658076286315918,
+        "richness": 6.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.6770727038383484,
+        "richness": 6.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 2.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.8603391647338867,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.7980719804763794,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 4.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.9243357181549072,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 5.0
+      },
+      "qwen3": {
+        "bert_score": 0.8072137832641602,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 4.0
+      }
+    }
+  },
+  {
+    "appId": "com.bluepearl.VitalImagingCentre",
+    "pp_category": "LOCATION",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.873193621635437,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 2.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.7938135862350464,
+        "richness": 3.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 0.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.7990849614143372,
+        "richness": 6.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 2.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.93416827917099,
+        "richness": 3.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 0.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.7867331504821777,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 4.0
+      },
+      "qwen3": {
+        "bert_score": 0.8536697030067444,
+        "richness": 4.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 0.0
+      }
+    }
+  },
+  {
+    "appId": "com.bolshakovdenis.soundanalyzer",
+    "pp_category": "MICROPHONE",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.7891676425933838,
+        "richness": 3.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 1.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.7721331119537354,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.9481207728385925,
+        "richness": 6.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 4.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.6208576560020447,
+        "richness": 6.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 4.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.4655310809612274,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      },
+      "qwen3": {
+        "bert_score": 0.9157319068908691,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "com.buggames.countryballs",
+    "pp_category": "STORAGE",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.8022303581237793,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 5.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.7736461758613586,
+        "richness": 9.0,
+        "specificity": 10.0,
+        "semantic_relatedness": 3.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.8883936405181885,
+        "richness": 10.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.9019286036491394,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.9041775465011597,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "qwen3": {
+        "bert_score": 0.7729998826980591,
+        "richness": 10.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      }
+    }
+  },
+  {
+    "appId": "com.buildfortheweb.tasks",
+    "pp_category": "CALENDAR",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.7029923796653748,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 9.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.855718731880188,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.9532185792922974,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.70609050989151,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 6.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.8133620619773865,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 7.0
+      },
+      "qwen3": {
+        "bert_score": 0.9238246083259583,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      }
+    }
+  },
+  {
+    "appId": "com.centurymaxstudios",
+    "pp_category": "CAMERA",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.8320019841194153,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.8561000823974609,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 9.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.9228982925415039,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 8.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.9028875827789307,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 8.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.6558846831321716,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 1.0
+      },
+      "qwen3": {
+        "bert_score": 0.8686873316764832,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 9.0
+      }
+    }
+  },
+  {
+    "appId": "com.choicehotels.android",
+    "pp_category": "LOCATION",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.7425919771194458,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.702828586101532,
+        "richness": 9.0,
+        "specificity": 10.0,
+        "semantic_relatedness": 9.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.9431260824203491,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.9439955353736877,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.8498967885971069,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 8.0
+      },
+      "qwen3": {
+        "bert_score": 0.8157947063446045,
+        "richness": 10.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 9.0
+      }
+    }
+  },
+  {
+    "appId": "com.cisco.jabber.guest",
+    "pp_category": "CAMERA",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.7555719017982483,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.7361289858818054,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 3.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.9170721769332886,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.7463693022727966,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 2.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.6690795421600342,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 0.0
+      },
+      "qwen3": {
+        "bert_score": 0.7683041095733643,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      }
+    }
+  },
+  {
+    "appId": "com.coastguard",
+    "pp_category": "LOCATION",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.8338869214057922,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 5.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.5405633449554443,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 5.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.8192431330680847,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.9319731593132019,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 3.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.9018832445144653,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 5.0
+      },
+      "qwen3": {
+        "bert_score": 0.7798489928245544,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "com.corrigo.intuit",
+    "pp_category": "CAMERA",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.7721419930458069,
+        "richness": 5.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.7891055941581726,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 4.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.8753598928451538,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.8639317750930786,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 4.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.9029563665390015,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "qwen3": {
+        "bert_score": 0.7828590869903564,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      }
+    }
+  },
+  {
+    "appId": "com.cosmobile.jetcontacts",
+    "pp_category": "STORAGE",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.8030266165733337,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.867318868637085,
+        "richness": 9.0,
+        "specificity": 10.0,
+        "semantic_relatedness": 6.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.9572266936302185,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 3.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.6803257465362549,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 5.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.8709887862205505,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "qwen3": {
+        "bert_score": 0.7983254790306091,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      }
+    }
+  },
+  {
+    "appId": "com.creativephotoeditors.homeexteriorphotoframe",
+    "pp_category": "CAMERA",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.8159656524658203,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 4.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.7624586224555969,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 4.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.8198652863502502,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.8521891832351685,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.8486968874931335,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "qwen3": {
+        "bert_score": 0.7550511956214905,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      }
+    }
+  },
+  {
+    "appId": "com.dartmouthhitchcock.android",
+    "pp_category": "CAMERA",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.7550321221351624,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 4.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.7873759269714355,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.9302972555160522,
+        "richness": 9.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 2.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.8816096782684326,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.9002191424369812,
+        "richness": 9.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 4.0
+      },
+      "qwen3": {
+        "bert_score": 0.8706198930740356,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      }
+    }
+  },
+  {
+    "appId": "com.dbestapps.newyearphotoframes",
+    "pp_category": "CAMERA",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.725023627281189,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 1.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.7968240976333618,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 4.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.9124301075935364,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.5400907397270203,
+        "richness": 6.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 0.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.8135408163070679,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "qwen3": {
+        "bert_score": 0.8056581616401672,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      }
+    }
+  },
+  {
+    "appId": "com.ddog.framephotocollage",
+    "pp_category": "CAMERA",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.6688672304153442,
+        "richness": 6.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 3.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.7572284936904907,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.9192805290222168,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.8823948502540588,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.938622772693634,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "qwen3": {
+        "bert_score": 0.816699743270874,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 4.0
+      }
+    }
+  },
+  {
+    "appId": "com.duy.pascal.compiler",
+    "pp_category": "STORAGE",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.6405028700828552,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.8959410786628723,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.7749127745628357,
+        "richness": 9.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 4.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.7579759955406189,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.8101621866226196,
+        "richness": 9.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 6.0
+      },
+      "qwen3": {
+        "bert_score": 0.8359550833702087,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      }
+    }
+  },
+  {
+    "appId": "com.ea.image.text",
+    "pp_category": "CAMERA",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.8813309073448181,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.8773319125175476,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.8819923996925354,
+        "richness": 10.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.9124109745025635,
+        "richness": 10.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 9.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.9166296720504761,
+        "richness": 10.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 9.0
+      },
+      "qwen3": {
+        "bert_score": 0.9278628826141357,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      }
+    }
+  },
+  {
+    "appId": "com.evergreen.zsilentCamera_plus",
+    "pp_category": "CAMERA",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.79026198387146,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.7506243586540222,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 9.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.8354743719100952,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 9.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.6967533230781555,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 9.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.5138664841651917,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 9.0
+      },
+      "qwen3": {
+        "bert_score": 0.7132914066314697,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 10.0
+      }
+    }
+  },
+  {
+    "appId": "com.examaxin.recorderscrrenredmoh.huncinmohsr",
+    "pp_category": "MICROPHONE",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.5407752394676208,
+        "richness": 5.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.77239590883255,
+        "richness": 6.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.9415268301963806,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 5.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.9177339673042297,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.8975563049316406,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 5.0
+      },
+      "qwen3": {
+        "bert_score": 0.8729223608970642,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "com.fieldbit",
+    "pp_category": "CAMERA",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.838024377822876,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 4.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.8789347410202026,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.7177183628082275,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.7953373193740845,
+        "richness": 4.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 2.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.8627588152885437,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 2.0
+      },
+      "qwen3": {
+        "bert_score": 0.6905561089515686,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      }
+    }
+  },
+  {
+    "appId": "com.filters.forMusically.filters4musically",
+    "pp_category": "CAMERA",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.8277408480644226,
+        "richness": 6.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 5.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.8744904398918152,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.9156292080879211,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.770514726638794,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 4.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.9424405694007874,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 5.0
+      },
+      "qwen3": {
+        "bert_score": 0.8688277006149292,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      }
+    }
+  },
+  {
+    "appId": "com.foremostmedia.hallcrestRinseCheck",
+    "pp_category": "CAMERA",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.8195059299468994,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 3.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.7619718909263611,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 3.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.7985177040100098,
+        "richness": 10.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 0.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.8539513349533081,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 2.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.6310700178146362,
+        "richness": 9.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      },
+      "qwen3": {
+        "bert_score": 0.8609102368354797,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      }
+    }
+  },
+  {
+    "appId": "com.foursquare.robin",
+    "pp_category": "LOCATION",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.7413733601570129,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.8771129846572876,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.9358373880386353,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.8777804374694824,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.7390460968017578,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "qwen3": {
+        "bert_score": 0.7441019415855408,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      }
+    }
+  },
+  {
+    "appId": "com.fredmeyer.mobile",
+    "pp_category": "LOCATION",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.7526968717575073,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.7596732378005981,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 4.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.9077041149139404,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 8.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.6325077414512634,
+        "richness": 6.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 4.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.8276228904724121,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 6.0
+      },
+      "qwen3": {
+        "bert_score": 0.7304741144180298,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      }
+    }
+  },
+  {
+    "appId": "com.gamevil.zenonia4.global",
+    "pp_category": "STORAGE",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.8214068412780762,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.8386462330818176,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 5.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.8416838645935059,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.7721661925315857,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 5.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.6291650533676147,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 6.0
+      },
+      "qwen3": {
+        "bert_score": 0.6719507575035095,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "com.gec.TerraApp.Terra",
+    "pp_category": "LOCATION",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.6998557448387146,
+        "richness": 6.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 6.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.8302286863327026,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.931348979473114,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 8.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.7059906125068665,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.5593842267990112,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "qwen3": {
+        "bert_score": 0.6958057284355164,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      }
+    }
+  },
+  {
+    "appId": "com.gecor.MolinaSegura",
+    "pp_category": "CAMERA",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.8041743040084839,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.8326334953308105,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 9.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.8591452836990356,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.6487003564834595,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.6827722787857056,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "qwen3": {
+        "bert_score": 0.7055709362030029,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 9.0
+      }
+    }
+  },
+  {
+    "appId": "com.geekyouup.android.widgets.battery",
+    "pp_category": "LOCATION",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.8205172419548035,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.6608244776725769,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 3.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.8939660787582397,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.9217345714569092,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.7933433651924133,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      },
+      "qwen3": {
+        "bert_score": 0.7899136543273926,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 4.0
+      }
+    }
+  },
+  {
+    "appId": "com.gl.senza",
+    "pp_category": "CAMERA",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.873818576335907,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.7672396302223206,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.8799896240234375,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.8840354681015015,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 6.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.8647971749305725,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "qwen3": {
+        "bert_score": 0.8610831499099731,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      }
+    }
+  },
+  {
+    "appId": "com.glympse.android.auto",
+    "pp_category": "LOCATION",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.6238000392913818,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 8.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.8156101107597351,
+        "richness": 10.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.9116848707199097,
+        "richness": 10.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.5790947675704956,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 5.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.7811856269836426,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "qwen3": {
+        "bert_score": 0.820188045501709,
+        "richness": 10.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      }
+    }
+  },
+  {
+    "appId": "com.glympse.android.glympseexpress",
+    "pp_category": "CONTACT",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.7781038284301758,
+        "richness": 5.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.6277596950531006,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 4.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.9173961281776428,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.8908164501190186,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.7975556254386902,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      },
+      "qwen3": {
+        "bert_score": 0.9267510175704956,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      }
+    }
+  },
+  {
+    "appId": "com.gogetcorp.roomdisplay.v6",
+    "pp_category": "CALENDAR",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.1702665537595749,
+        "richness": 0.0,
+        "specificity": 0.0,
+        "semantic_relatedness": 0.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.8023695945739746,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 5.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.9524321556091309,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.9075024127960205,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.7957665920257568,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "qwen3": {
+        "bert_score": 0.9262392520904541,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      }
+    }
+  },
+  {
+    "appId": "com.gtype.harirayaphotoframe",
+    "pp_category": "CAMERA",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.7746578454971313,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.7469130158424377,
+        "richness": 9.0,
+        "specificity": 10.0,
+        "semantic_relatedness": 8.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.8597114682197571,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.8750550746917725,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.9548529386520386,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      },
+      "qwen3": {
+        "bert_score": 0.5124917030334473,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 9.0
+      }
+    }
+  },
+  {
+    "appId": "com.ikompoz.android.instant_translator",
+    "pp_category": "CAMERA",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.6897010207176208,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.7631275653839111,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 9.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.7444807291030884,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 8.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.7973389625549316,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.8365380167961121,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 7.0
+      },
+      "qwen3": {
+        "bert_score": 0.8137010335922241,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      }
+    }
+  },
+  {
+    "appId": "com.imagenes.luto",
+    "pp_category": "STORAGE",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.7793552875518799,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.8299596905708313,
+        "richness": 10.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.8834295868873596,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.8327977657318115,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 8.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.9018418788909912,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "qwen3": {
+        "bert_score": 0.7723405957221985,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      }
+    }
+  },
+  {
+    "appId": "com.imvu.mobilecordova",
+    "pp_category": "STORAGE",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.7246686220169067,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.531888484954834,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 3.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.8586385846138,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.5608074069023132,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.7793352603912354,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "qwen3": {
+        "bert_score": 0.7301599979400635,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      }
+    }
+  },
+  {
+    "appId": "com.jm.livetrips",
+    "pp_category": "CAMERA",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.6384230852127075,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.7671703696250916,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 5.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.8311436176300049,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 5.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.9366003274917603,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.9194687604904175,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "qwen3": {
+        "bert_score": 0.836932897567749,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      }
+    }
+  },
+  {
+    "appId": "com.kaldroid.bbf",
+    "pp_category": "STORAGE",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.7805489897727966,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 3.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.7783671617507935,
+        "richness": 9.0,
+        "specificity": 10.0,
+        "semantic_relatedness": 3.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.8650112748146057,
+        "richness": 9.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 3.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.8640121817588806,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 2.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.8545362949371338,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      },
+      "qwen3": {
+        "bert_score": 0.8562436103820801,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 2.0
+      }
+    }
+  },
+  {
+    "appId": "com.katsana.apps.android",
+    "pp_category": "LOCATION",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.7360626459121704,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.8737815022468567,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.9438365697860718,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.795674204826355,
+        "richness": 6.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 4.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.9238725900650024,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 5.0
+      },
+      "qwen3": {
+        "bert_score": 0.8745646476745605,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "com.keepandshare.keepshare",
+    "pp_category": "STORAGE",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.8171486854553223,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 4.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.7949792146682739,
+        "richness": 9.0,
+        "specificity": 10.0,
+        "semantic_relatedness": 5.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.9320265054702759,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.866737961769104,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.734671950340271,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "qwen3": {
+        "bert_score": 0.7588200569152832,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "com.kisscarservice.mobile.android",
+    "pp_category": "LOCATION",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.686684250831604,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.6998923420906067,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 2.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.7978795170783997,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.5969783067703247,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.9602912664413452,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 8.0
+      },
+      "qwen3": {
+        "bert_score": 0.5711808800697327,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "com.lifesaverapp",
+    "pp_category": "LOCATION",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.7588163614273071,
+        "richness": 6.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.8539923429489136,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.9484807252883911,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.7094977498054504,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 5.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.6722307205200195,
+        "richness": 6.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      },
+      "qwen3": {
+        "bert_score": 0.8083503246307373,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "com.lighthouse1.mobilebenefits.pyx",
+    "pp_category": "CAMERA",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.8620011806488037,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.819203794002533,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 4.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.8873804211616516,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.896240770816803,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.8437612056732178,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 8.0
+      },
+      "qwen3": {
+        "bert_score": 0.7825690507888794,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      }
+    }
+  },
+  {
+    "appId": "com.lonelycatgames.Xplore",
+    "pp_category": "STORAGE",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.8358725905418396,
+        "richness": 5.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 2.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.7572035789489746,
+        "richness": 5.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.8489795327186584,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.8945127129554749,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.9447047710418701,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      },
+      "qwen3": {
+        "bert_score": 0.8640358448028564,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "com.looket.jkids",
+    "pp_category": "LOCATION",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.6536047458648682,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.6900640726089478,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 2.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.9332115054130554,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.9254355430603027,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.860540509223938,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "qwen3": {
+        "bert_score": 0.6964765787124634,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      }
+    }
+  },
+  {
+    "appId": "com.miccron.coinoscope",
+    "pp_category": "CAMERA",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.7108368873596191,
+        "richness": 5.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.7775478363037109,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 2.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.6370664238929749,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.45420682430267334,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.28603169322013855,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      },
+      "qwen3": {
+        "bert_score": 0.7170931100845337,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      }
+    }
+  },
+  {
+    "appId": "com.mobisys.biod.questabird",
+    "pp_category": "CAMERA",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.8253079056739807,
+        "richness": 6.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 5.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.6703083515167236,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 4.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.7668586373329163,
+        "richness": 5.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 0.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.8641782402992249,
+        "richness": 6.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 4.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.934535562992096,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 8.0
+      },
+      "qwen3": {
+        "bert_score": 0.8427014350891113,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      }
+    }
+  },
+  {
+    "appId": "com.mrsoft.dgagrawal",
+    "pp_category": "LOCATION",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.8612350821495056,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.8383657336235046,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 2.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.8870876431465149,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.8215149641036987,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 8.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.5279467701911926,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "qwen3": {
+        "bert_score": 0.8637330532073975,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 3.0
+      }
+    }
+  },
+  {
+    "appId": "com.munwarapps.lovelycouplephotosuit",
+    "pp_category": "CAMERA",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.8335772752761841,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 1.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.8434639573097229,
+        "richness": 8.0,
+        "specificity": 10.0,
+        "semantic_relatedness": 0.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.798367977142334,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.8639093637466431,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.685922384262085,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      },
+      "qwen3": {
+        "bert_score": 0.8160762786865234,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 0.0
+      }
+    }
+  },
+  {
+    "appId": "com.neaststudios.procapture.free",
+    "pp_category": "CAMERA",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.8068920969963074,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.8019267916679382,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 9.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.9076088070869446,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.8779075145721436,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.9347858428955078,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "qwen3": {
+        "bert_score": 0.8692601919174194,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      }
+    }
+  },
+  {
+    "appId": "com.nuance.powershare_mobile",
+    "pp_category": "STORAGE",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.7375500202178955,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.6707521677017212,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.412893146276474,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 6.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.46467190980911255,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 4.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.44430992007255554,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      },
+      "qwen3": {
+        "bert_score": 0.7078719735145569,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "com.occhipinti.patrick.pocketsos",
+    "pp_category": "LOCATION",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.7460317611694336,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.4907866418361664,
+        "richness": 5.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.933290958404541,
+        "richness": 6.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 4.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.8962039947509766,
+        "richness": 5.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 4.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.9455801248550415,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      },
+      "qwen3": {
+        "bert_score": 0.859011173248291,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      }
+    }
+  },
+  {
+    "appId": "com.odnklassac.weathermenow3",
+    "pp_category": "LOCATION",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.8209081888198853,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.7728207111358643,
+        "richness": 10.0,
+        "specificity": 10.0,
+        "semantic_relatedness": 9.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.8756860494613647,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.9407614469528198,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.9361706972122192,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "qwen3": {
+        "bert_score": 0.8938217759132385,
+        "richness": 10.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 9.0
+      }
+    }
+  },
+  {
+    "appId": "com.omgm.easytaxi.android.driver",
+    "pp_category": "LOCATION",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.8152585029602051,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.8843608498573303,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.8774252533912659,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.7432364225387573,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.6361967325210571,
+        "richness": 9.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 7.0
+      },
+      "qwen3": {
+        "bert_score": 0.9044452905654907,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      }
+    }
+  },
+  {
+    "appId": "com.rentcars.rentcarscom",
+    "pp_category": "LOCATION",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.8575868010520935,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 0.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.6796671152114868,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 1.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.8390551209449768,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 4.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.8594115972518921,
+        "richness": 6.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.711007297039032,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "qwen3": {
+        "bert_score": 0.7600502371788025,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      }
+    }
+  },
+  {
+    "appId": "com.sahibtibba.pipcamera",
+    "pp_category": "STORAGE",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.8517335057258606,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.818040132522583,
+        "richness": 5.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 2.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.9074483513832092,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 4.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.32659396529197693,
+        "richness": 6.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 2.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.5548996329307556,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      },
+      "qwen3": {
+        "bert_score": 0.7249822616577148,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 3.0
+      }
+    }
+  },
+  {
+    "appId": "com.sarihiari.pinnr",
+    "pp_category": "CONTACT",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.7791917324066162,
+        "richness": 5.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 3.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.8003515601158142,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 3.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.6987938284873962,
+        "richness": 5.0,
+        "specificity": 3.0,
+        "semantic_relatedness": 0.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.5321097373962402,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 4.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.6875332593917847,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 2.0
+      },
+      "qwen3": {
+        "bert_score": 0.6413804292678833,
+        "richness": 5.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 0.0
+      }
+    }
+  },
+  {
+    "appId": "com.selfpoint.koshervillage",
+    "pp_category": "CAMERA",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.7220394611358643,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.7928425073623657,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 5.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.8479577302932739,
+        "richness": 9.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.8763618469238281,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 2.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.7959734201431274,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      },
+      "qwen3": {
+        "bert_score": 0.8001670837402344,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 3.0
+      }
+    }
+  },
+  {
+    "appId": "com.shark.hdphotoframes",
+    "pp_category": "STORAGE",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.8327063322067261,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.7909168004989624,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.700935959815979,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 3.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.5819700360298157,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 5.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.8776554465293884,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 5.0
+      },
+      "qwen3": {
+        "bert_score": 0.8251169919967651,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      }
+    }
+  },
+  {
+    "appId": "com.skymet.collect.android",
+    "pp_category": "LOCATION",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.8126887083053589,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.7374982833862305,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 3.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.7069743871688843,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.6612265110015869,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.878354012966156,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 4.0
+      },
+      "qwen3": {
+        "bert_score": 0.7882112264633179,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      }
+    }
+  },
+  {
+    "appId": "com.smartfm_reach.al_majaz",
+    "pp_category": "CAMERA",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.8475981950759888,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.7108972072601318,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 4.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.9374983310699463,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.9323370456695557,
+        "richness": 6.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 5.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.8392274379730225,
+        "richness": 6.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 5.0
+      },
+      "qwen3": {
+        "bert_score": 0.7260168194770813,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "com.srapps.quotesnjokeslitenew",
+    "pp_category": "CAMERA",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.8659811019897461,
+        "richness": 3.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 0.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.757124662399292,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 0.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.8255330324172974,
+        "richness": 3.0,
+        "specificity": 3.0,
+        "semantic_relatedness": 0.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.9202706813812256,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 1.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.8634113073348999,
+        "richness": 9.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      },
+      "qwen3": {
+        "bert_score": 0.8308522701263428,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 0.0
+      }
+    }
+  },
+  {
+    "appId": "com.stsa.info.androidtracker",
+    "pp_category": "LOCATION",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.7490336894989014,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.6796723008155823,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.9440114498138428,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.8073031902313232,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 8.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.7532485723495483,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 6.0
+      },
+      "qwen3": {
+        "bert_score": 0.8906753659248352,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      }
+    }
+  },
+  {
+    "appId": "com.sunny.see.moon.valentines.day.photo.frames.eighteen.thisyear",
+    "pp_category": "CAMERA",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.6798005104064941,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 0.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.7722095847129822,
+        "richness": 9.0,
+        "specificity": 10.0,
+        "semantic_relatedness": 6.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.6047722697257996,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 0.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.6088727116584778,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.6565127372741699,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 8.0
+      },
+      "qwen3": {
+        "bert_score": 0.5918737649917603,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 1.0
+      }
+    }
+  },
+  {
+    "appId": "com.swg.qfmmobile",
+    "pp_category": "CAMERA",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.8371842503547668,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.7961301803588867,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 4.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.8470539450645447,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.9366408586502075,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.8970884084701538,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "qwen3": {
+        "bert_score": 0.7689159512519836,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 3.0
+      }
+    }
+  },
+  {
+    "appId": "com.tanishka.jesus.photoframes",
+    "pp_category": "CAMERA",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.6456003785133362,
+        "richness": 5.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 0.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.6662488579750061,
+        "richness": 3.0,
+        "specificity": 10.0,
+        "semantic_relatedness": 0.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.8028209209442139,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 0.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.604882001876831,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 8.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.6894405484199524,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 8.0
+      },
+      "qwen3": {
+        "bert_score": 0.5184999704360962,
+        "richness": 9.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 2.0
+      }
+    }
+  },
+  {
+    "appId": "com.tecogis.lead_retrieval",
+    "pp_category": "CAMERA",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.8376449346542358,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 5.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.8400046825408936,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 3.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.8789310455322266,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.8520244359970093,
+        "richness": 6.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 4.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.9393315315246582,
+        "richness": 9.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 3.0
+      },
+      "qwen3": {
+        "bert_score": 0.8708688616752625,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "com.tellody",
+    "pp_category": "CAMERA",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.6538456678390503,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 2.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.8092867732048035,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 2.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.908845067024231,
+        "richness": 9.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 2.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.6839814186096191,
+        "richness": 9.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.5969998836517334,
+        "richness": 10.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      },
+      "qwen3": {
+        "bert_score": 0.8862322568893433,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      }
+    }
+  },
+  {
+    "appId": "com.tinybeans",
+    "pp_category": "STORAGE",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.742517352104187,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.843099057674408,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 3.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.956629753112793,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 4.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.8167614936828613,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 3.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.8263117074966431,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 4.0
+      },
+      "qwen3": {
+        "bert_score": 0.926623523235321,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 3.0
+      }
+    }
+  },
+  {
+    "appId": "com.topstar.jacket.men.photo.suit",
+    "pp_category": "STORAGE",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.7781797647476196,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.8302022218704224,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 3.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.918413519859314,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 4.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.9462907314300537,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.9072563648223877,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 2.0
+      },
+      "qwen3": {
+        "bert_score": 0.8510006666183472,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "com.ulm.circuitcalculator",
+    "pp_category": "STORAGE",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.6699323654174805,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.8396140336990356,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.7565575838088989,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.8764733672142029,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.7290571928024292,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 8.0
+      },
+      "qwen3": {
+        "bert_score": 0.773968517780304,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      }
+    }
+  },
+  {
+    "appId": "com.ventipix.assetManager",
+    "pp_category": "LOCATION",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.7309955358505249,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 3.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.7864183187484741,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 2.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.8385797142982483,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.8846582770347595,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 5.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.6755194067955017,
+        "richness": 6.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      },
+      "qwen3": {
+        "bert_score": 0.8955111503601074,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      }
+    }
+  },
+  {
+    "appId": "com.weddingcolors.devoscar.app",
+    "pp_category": "STORAGE",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.8098814487457275,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 5.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.7194551825523376,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 1.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.6599066853523254,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.8863669037818909,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.6497049927711487,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      },
+      "qwen3": {
+        "bert_score": 0.78277188539505,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 4.0
+      }
+    }
+  },
+  {
+    "appId": "com.woodlandscenics.modelinventory",
+    "pp_category": "STORAGE",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.7022353410720825,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 4.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.7635217905044556,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 3.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.8133236169815063,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 4.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.8709228038787842,
+        "richness": 9.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.8832533955574036,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "qwen3": {
+        "bert_score": 0.9127704501152039,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      }
+    }
+  },
+  {
+    "appId": "com.xenstudios.army.photosuit",
+    "pp_category": "CAMERA",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.6364028453826904,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.8361899256706238,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 0.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.9505207538604736,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.7980517148971558,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 6.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.3371407091617584,
+        "richness": 9.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 5.0
+      },
+      "qwen3": {
+        "bert_score": 0.7435041069984436,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 2.0
+      }
+    }
+  },
+  {
+    "appId": "com.yale.homeview",
+    "pp_category": "MICROPHONE",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.7737511992454529,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.8475879430770874,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 4.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.801677942276001,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.6267759799957275,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.26328375935554504,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "qwen3": {
+        "bert_score": 0.754551887512207,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "com.yellowpages.android.gas",
+    "pp_category": "LOCATION",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.6360678672790527,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.7777047753334045,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 5.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.86943119764328,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 5.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.9484447240829468,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.9600468873977661,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "qwen3": {
+        "bert_score": 0.8384124040603638,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      }
+    }
+  },
+  {
+    "appId": "cyb.satheesh.annauniversitysyllabusr08",
+    "pp_category": "STORAGE",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.8334015607833862,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.8398922085762024,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.905187726020813,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.5098410844802856,
+        "richness": 9.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 4.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.9147574305534363,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "qwen3": {
+        "bert_score": 0.8994001746177673,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      }
+    }
+  },
+  {
+    "appId": "de.envire.jwankel.pitchtuner",
+    "pp_category": "MICROPHONE",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.6871051788330078,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.8516897559165955,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.8486210107803345,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.7313027381896973,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 8.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.7461051940917969,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "qwen3": {
+        "bert_score": 0.9236156940460205,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      }
+    }
+  },
+  {
+    "appId": "errows.photoeditor.spring",
+    "pp_category": "CAMERA",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.7992610335350037,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.7968899011611938,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 4.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.7541621923446655,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 8.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.7941081523895264,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 5.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.5661443471908569,
+        "richness": 9.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 6.0
+      },
+      "qwen3": {
+        "bert_score": 0.7211194038391113,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      }
+    }
+  },
+  {
+    "appId": "eu.aagames.widget.battery.beautiful",
+    "pp_category": "LOCATION",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.8042124509811401,
+        "richness": 3.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 2.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.791037380695343,
+        "richness": 3.0,
+        "specificity": 10.0,
+        "semantic_relatedness": 0.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.9256447553634644,
+        "richness": 5.0,
+        "specificity": 3.0,
+        "semantic_relatedness": 2.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.7269684672355652,
+        "richness": 0.0,
+        "specificity": 3.0,
+        "semantic_relatedness": 0.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.7201573848724365,
+        "richness": 5.0,
+        "specificity": 3.0,
+        "semantic_relatedness": 2.0
+      },
+      "qwen3": {
+        "bert_score": 0.7377218008041382,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 0.0
+      }
+    }
+  },
+  {
+    "appId": "freeappshouse.capridresspantpentwomenfashion",
+    "pp_category": "CAMERA",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.8342145085334778,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 0.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.8122075796127319,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 4.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.8516990542411804,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.8760638236999512,
+        "richness": 5.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 0.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.9195818901062012,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 9.0
+      },
+      "qwen3": {
+        "bert_score": 0.843712568283081,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      }
+    }
+  },
+  {
+    "appId": "io.moonlighting.pixslider",
+    "pp_category": "STORAGE",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.7607703804969788,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.7632350325584412,
+        "richness": 9.0,
+        "specificity": 10.0,
+        "semantic_relatedness": 6.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.8787230253219604,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.6082043051719666,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.8425835967063904,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 5.0
+      },
+      "qwen3": {
+        "bert_score": 0.685046374797821,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      }
+    }
+  },
+  {
+    "appId": "it.mobistego",
+    "pp_category": "STORAGE",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.8276785612106323,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.8773020505905151,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.8539953827857971,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 5.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.7877581715583801,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.8403849005699158,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 8.0
+      },
+      "qwen3": {
+        "bert_score": 0.8840098977088928,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 9.0
+      }
+    }
+  },
+  {
+    "appId": "led.android.littlebangkok",
+    "pp_category": "LOCATION",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.7089040279388428,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.6453911662101746,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 4.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.9338497519493103,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 5.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.9294663667678833,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.9147030711174011,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 6.0
+      },
+      "qwen3": {
+        "bert_score": 0.873924195766449,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "ma.mazdev.adanmuslim",
+    "pp_category": "STORAGE",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.730927050113678,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 9.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.764999270439148,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.9055970907211304,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.7510010600090027,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.8275849223136902,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 8.0
+      },
+      "qwen3": {
+        "bert_score": 0.7471828460693359,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 9.0
+      }
+    }
+  },
+  {
+    "appId": "nl.fotoview.shatter",
+    "pp_category": "STORAGE",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.6928955316543579,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 3.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.5778158903121948,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.7202158570289612,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.47715091705322266,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.5591906309127808,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "qwen3": {
+        "bert_score": 0.7209988832473755,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 9.0
+      }
+    }
+  },
+  {
+    "appId": "org.carolinashealthcare.onecarolinas",
+    "pp_category": "LOCATION",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.7337332963943481,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.5370222330093384,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 4.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.8687677383422852,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.7177727818489075,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.8836138248443604,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 7.0
+      },
+      "qwen3": {
+        "bert_score": 0.8645052313804626,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      }
+    }
+  },
+  {
+    "appId": "org.geogebra.android.g3d",
+    "pp_category": "STORAGE",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.8080140948295593,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 9.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.671328067779541,
+        "richness": 9.0,
+        "specificity": 10.0,
+        "semantic_relatedness": 7.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.8453857898712158,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.8119838237762451,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.797421932220459,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "qwen3": {
+        "bert_score": 0.7684355974197388,
+        "richness": 9.0,
+        "specificity": 10.0,
+        "semantic_relatedness": 9.0
+      }
+    }
+  },
+  {
+    "appId": "org.ibeccato.photoczip",
+    "pp_category": "STORAGE",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.7875373363494873,
+        "richness": 6.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 5.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.7125541567802429,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.8719090223312378,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 5.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.6751450896263123,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 5.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.9267253875732422,
+        "richness": 6.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 4.0
+      },
+      "qwen3": {
+        "bert_score": 0.8370306491851807,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      }
+    }
+  },
+  {
+    "appId": "org.prowl.wifiscanner",
+    "pp_category": "LOCATION",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.8538033962249756,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.7812955379486084,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.8608661890029907,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 5.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.9229001998901367,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.9016962051391602,
+        "richness": 6.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 4.0
+      },
+      "qwen3": {
+        "bert_score": 0.8694775700569153,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      }
+    }
+  },
+  {
+    "appId": "radonsoft.net.soundcheck",
+    "pp_category": "MICROPHONE",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.7367175817489624,
+        "richness": 5.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 2.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.5517650246620178,
+        "richness": 5.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 0.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.8192359209060669,
+        "richness": 9.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 5.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.8570618629455566,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 8.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.8851050138473511,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "qwen3": {
+        "bert_score": 0.7254843711853027,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 2.0
+      }
+    }
+  },
+  {
+    "appId": "radonsoft.net.spectralview",
+    "pp_category": "MICROPHONE",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.7398563623428345,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.8360514640808105,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.8031697273254395,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.8878964185714722,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.6972886323928833,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 8.0
+      },
+      "qwen3": {
+        "bert_score": 0.8302010893821716,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      }
+    }
+  },
+  {
+    "appId": "regola.flagmii",
+    "pp_category": "LOCATION",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.8141748309135437,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 2.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.8499485850334167,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 0.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.8461318016052246,
+        "richness": 9.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 2.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.8873062133789062,
+        "richness": 9.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.8942373394966125,
+        "richness": 9.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 3.0
+      },
+      "qwen3": {
+        "bert_score": 0.896531343460083,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      }
+    }
+  },
+  {
+    "appId": "timeclock365.live",
+    "pp_category": "LOCATION",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.8338285684585571,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.7843883037567139,
+        "richness": 5.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 4.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.9450868964195251,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.9576019644737244,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.9717951416969299,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "qwen3": {
+        "bert_score": 0.9036788940429688,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      }
+    }
+  },
+  {
+    "appId": "tuneself.android.reverse.talk.backward.free",
+    "pp_category": "MICROPHONE",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.6793581247329712,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.7688865065574646,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.8355455994606018,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.895016610622406,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.6655314564704895,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "qwen3": {
+        "bert_score": 0.7759470343589783,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "uk.co.piota.schools",
+    "pp_category": "CALENDAR",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.5996953248977661,
+        "richness": 6.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.7459912300109863,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 3.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.8665131330490112,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.6978875398635864,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 5.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.8600106835365295,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "qwen3": {
+        "bert_score": 0.8171827793121338,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 4.0
+      }
+    }
+  },
+  {
+    "appId": "us.plurib.youarehere",
+    "pp_category": "LOCATION",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.7521631717681885,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 5.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.7631056308746338,
+        "richness": 9.0,
+        "specificity": 10.0,
+        "semantic_relatedness": 4.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.7656376361846924,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.8620663285255432,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 5.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.75840824842453,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "qwen3": {
+        "bert_score": 0.6271896362304688,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      }
+    }
+  },
+  {
+    "appId": "video.player.hd.videoplayer",
+    "pp_category": "STORAGE",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.7630535364151001,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.7985633611679077,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 2.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.9133436679840088,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.8892580270767212,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 5.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.8837231993675232,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      },
+      "qwen3": {
+        "bert_score": 0.8874123096466064,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      }
+    }
+  },
+  {
+    "appId": "video.player.mediaplayer.hdvideoplayer",
+    "pp_category": "STORAGE",
+    "models": {
+      "deepseek-v3": {
+        "bert_score": 0.7640806436538696,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      },
+      "gpt_oss_120b": {
+        "bert_score": 0.7668923735618591,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 5.0
+      },
+      "gpt_4o": {
+        "bert_score": 0.7497888207435608,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "llama-4-maverick": {
+        "bert_score": 0.8716496229171753,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "llama33_70b": {
+        "bert_score": 0.9605818390846252,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "qwen3": {
+        "bert_score": 0.8699284791946411,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      }
+    }
+  }
+]
