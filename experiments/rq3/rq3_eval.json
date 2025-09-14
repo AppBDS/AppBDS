@@ -1,0 +1,6482 @@
+[
+  {
+    "appId": "air.CreativeTech.PhotoColoringEditor",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9057196378707886,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8374336957931519,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9241912364959717,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "air.com.mconline.sg.picturedictionary",
+    "pp_category": "MICROPHONE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9264351725578308,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8724471926689148,
+        "richness": 5.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9247289299964905,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "allies.phoenix.tattoo.designs",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.6552160978317261,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.9212251305580139,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.7385226488113403,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      }
+    }
+  },
+  {
+    "appId": "and.netgps",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9312138557434082,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.933006227016449,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9474485516548157,
+        "richness": 6.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 4.0
+      }
+    }
+  },
+  {
+    "appId": "app.compiler",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8590813875198364,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.9231425523757935,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8206155896186829,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "app.georadius.gpsplatform",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.912497341632843,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.9202691316604614,
+        "richness": 5.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 2.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8503637909889221,
+        "richness": 6.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 3.0
+      }
+    }
+  },
+  {
+    "appId": "app.tools.soundmeter.decibel.noisedetector",
+    "pp_category": "MICROPHONE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8924403786659241,
+        "richness": 3.0,
+        "specificity": 3.0,
+        "semantic_relatedness": 2.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.633966326713562,
+        "richness": 3.0,
+        "specificity": 0.0,
+        "semantic_relatedness": 0.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.6870936155319214,
+        "richness": 0.0,
+        "specificity": 0.0,
+        "semantic_relatedness": 0.0
+      }
+    }
+  },
+  {
+    "appId": "appinventor.ai_CorwinRMXP.Naheulbeuk",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.6113966703414917,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.7880526781082153,
+        "richness": 9.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9198596477508545,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      }
+    }
+  },
+  {
+    "appId": "arkeo.gunsounds",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.858615517616272,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8356491327285767,
+        "richness": 10.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 2.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8244677782058716,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 2.0
+      }
+    }
+  },
+  {
+    "appId": "au.droidblitz.birthdaycards",
+    "pp_category": "CALENDAR",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8118590712547302,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.5489620566368103,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8140726089477539,
+        "richness": 9.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 4.0
+      }
+    }
+  },
+  {
+    "appId": "au.edu.sa.cbhs.schoolapp",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8989990949630737,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8942290544509888,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8524670600891113,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      }
+    }
+  },
+  {
+    "appId": "au.gov.qld.tmr.traffic",
+    "pp_category": "CALENDAR",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9001423120498657,
+        "richness": 6.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.9419807195663452,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9118167161941528,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 2.0
+      }
+    }
+  },
+  {
+    "appId": "axiom.malayalam.troll",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.7223058938980103,
+        "richness": 10.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 9.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.7397368550300598,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 3.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.7342401146888733,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      }
+    }
+  },
+  {
+    "appId": "batman.android.addressbook",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.933687150478363,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.6802689433097839,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9035800695419312,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      }
+    }
+  },
+  {
+    "appId": "be.appsolution.sportmagnl.tablet",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8032515645027161,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.7786345481872559,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.7884991765022278,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "biz.fungolf.swinganalysis",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.706636369228363,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.7557994723320007,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9026546478271484,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "bokf.ib.android.market.bok",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8926080465316772,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.738049328327179,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.921581506729126,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 9.0
+      }
+    }
+  },
+  {
+    "appId": "br.com.mobiltec.c4m.android.agent",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9284628033638,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.778791069984436,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8455356955528259,
+        "richness": 6.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 7.0
+      }
+    }
+  },
+  {
+    "appId": "br.com.rodrigokolb.electropads",
+    "pp_category": "MICROPHONE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8146588802337646,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.5125856399536133,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.6546451449394226,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "br.com.rodrigokolb.realbass",
+    "pp_category": "MICROPHONE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8726155161857605,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.7130458950996399,
+        "richness": 5.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8617450594902039,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      }
+    }
+  },
+  {
+    "appId": "ca.bell.selfserve.mybellmobile",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9351493120193481,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.927266538143158,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9433096647262573,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "ca.skipthedishes.dashboard",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8980914354324341,
+        "richness": 9.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 3.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.9343226552009583,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8717352151870728,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      }
+    }
+  },
+  {
+    "appId": "cc.mannam.audio4bible.nkjv.peter21",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8838372826576233,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8720145225524902,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 0.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8950917720794678,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 8.0
+      }
+    }
+  },
+  {
+    "appId": "cctv.bohlamp.app",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8236376643180847,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 2.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.7821739912033081,
+        "richness": 5.0,
+        "specificity": 4.0,
+        "semantic_relatedness": 2.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9166547656059265,
+        "richness": 3.0,
+        "specificity": 3.0,
+        "semantic_relatedness": 1.0
+      }
+    }
+  },
+  {
+    "appId": "co.bonx.go",
+    "pp_category": "MICROPHONE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8762607574462891,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.9522656202316284,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8064839243888855,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      }
+    }
+  },
+  {
+    "appId": "co.infinum.ptvtruck",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8694428205490112,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8495577573776245,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8693943619728088,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "co.mwater.clientapp",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8026247024536133,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.7370491027832031,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 2.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9065613746643066,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 0.0
+      }
+    }
+  },
+  {
+    "appId": "co.speechnotes.speechnotes",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.6499922275543213,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.4097963273525238,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.93116295337677,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "com.ARHeadBallBouncing.tzabars",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8017185926437378,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.7773903608322144,
+        "richness": 5.0,
+        "specificity": 3.0,
+        "semantic_relatedness": 1.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.7801563739776611,
+        "richness": 5.0,
+        "specificity": 3.0,
+        "semantic_relatedness": 2.0
+      }
+    }
+  },
+  {
+    "appId": "com.Adzectstudios.Greenhill.photo.editor",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9457207322120667,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8698129653930664,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9200145602226257,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      }
+    }
+  },
+  {
+    "appId": "com.ChristianResources",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8932613134384155,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.9192314147949219,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 0.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8745704889297485,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      }
+    }
+  },
+  {
+    "appId": "com.DaglocApps.WomanBlazer.PhotoMontage",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9638328552246094,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8482530117034912,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9303559064865112,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      }
+    }
+  },
+  {
+    "appId": "com.Protect_Utilities.AppLock_Security",
+    "pp_category": "CONTACT",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8668765425682068,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8389034271240234,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8284050822257996,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      }
+    }
+  },
+  {
+    "appId": "com.abclocal.wpvi.news",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8825111389160156,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8469653129577637,
+        "richness": 5.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8880168199539185,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      }
+    }
+  },
+  {
+    "appId": "com.accessunited",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8072259426116943,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.9302358627319336,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8913097977638245,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      }
+    }
+  },
+  {
+    "appId": "com.adorecommu",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8891772031784058,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.9498822689056396,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9400527477264404,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      }
+    }
+  },
+  {
+    "appId": "com.adriadevs.screenlock.ios.keypad.timepassword",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8788506984710693,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8106947541236877,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8830806016921997,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      }
+    }
+  },
+  {
+    "appId": "com.afmobi.boomplayer",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.808384895324707,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8669043183326721,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8800597786903381,
+        "richness": 6.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 3.0
+      }
+    }
+  },
+  {
+    "appId": "com.agilx.banditrun",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.807599663734436,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.9049156904220581,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8953471183776855,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      }
+    }
+  },
+  {
+    "appId": "com.alarm.alarmmobile.android.moni",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9464628100395203,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.9282079339027405,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9212198257446289,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      }
+    }
+  },
+  {
+    "appId": "com.allsuitanarkalidress.photosuit",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9381581544876099,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8648523092269897,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9016467332839966,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      }
+    }
+  },
+  {
+    "appId": "com.almoshaf.alsharefLite",
+    "pp_category": "MICROPHONE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.7899832129478455,
+        "richness": 10.0,
+        "specificity": 10.0,
+        "semantic_relatedness": 9.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.7117699384689331,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 9.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8093602061271667,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      }
+    }
+  },
+  {
+    "appId": "com.alpha.delta.tifnit4",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8210513591766357,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.7961190342903137,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 3.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.5824617147445679,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      }
+    }
+  },
+  {
+    "appId": "com.androidwasabi.livewallpaper.snowfall",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9272834062576294,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.7338869571685791,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9334847331047058,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 2.0
+      }
+    }
+  },
+  {
+    "appId": "com.androidwasabi.wallpaper.dandelion",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.7694487571716309,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8885576725006104,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9375206828117371,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      }
+    }
+  },
+  {
+    "appId": "com.anonymoose.bigtalker.bigtalker",
+    "pp_category": "MICROPHONE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.794612467288971,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.7610009908676147,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.7022508978843689,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      }
+    }
+  },
+  {
+    "appId": "com.antiapps.polishRack2",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.6496582627296448,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.5094239711761475,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8953094482421875,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      }
+    }
+  },
+  {
+    "appId": "com.app.safepettreats",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8976233005523682,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.887028694152832,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9288601875305176,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "com.appazur.cclc",
+    "pp_category": "CALENDAR",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8338859677314758,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 9.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.9338767528533936,
+        "richness": 5.0,
+        "specificity": 4.0,
+        "semantic_relatedness": 3.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8126559853553772,
+        "richness": 6.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 4.0
+      }
+    }
+  },
+  {
+    "appId": "com.applixgroup.demoar",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9241313338279724,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.6976202726364136,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.954504132270813,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      }
+    }
+  },
+  {
+    "appId": "com.appsbyusman.stealthaudioplayer",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.775982141494751,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8943035006523132,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8635493516921997,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 4.0
+      }
+    }
+  },
+  {
+    "appId": "com.appstory.extractor",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8803001642227173,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.541006326675415,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 2.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8478095531463623,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      }
+    }
+  },
+  {
+    "appId": "com.apptree.ducasse.live",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8551549911499023,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.9207476377487183,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.947001576423645,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      }
+    }
+  },
+  {
+    "appId": "com.archaicsoftware.yotricks",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.34543782472610474,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.5302966833114624,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.333658903837204,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      }
+    }
+  },
+  {
+    "appId": "com.atsdev.policesuitcamera",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9304273128509521,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.5701489448547363,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9072890281677246,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 8.0
+      }
+    }
+  },
+  {
+    "appId": "com.autocab.taxibooker.taxisdealmada.almada",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.7060335874557495,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.6880825757980347,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.6428958177566528,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      }
+    }
+  },
+  {
+    "appId": "com.axion.flashblinkcallandsms",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8317001461982727,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.7107987403869629,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9318321943283081,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 3.0
+      }
+    }
+  },
+  {
+    "appId": "com.bestfishinggames.fishing3d",
+    "pp_category": "MICROPHONE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9393170475959778,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8864766955375671,
+        "richness": 5.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 3.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.574711263179779,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      }
+    }
+  },
+  {
+    "appId": "com.bicycletransit.MetroBikeShare",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8811811208724976,
+        "richness": 6.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.5630253553390503,
+        "richness": 6.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9256690740585327,
+        "richness": 6.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "com.bitmango.go.fruitsmania2match3",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9387084245681763,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.930042028427124,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9031322002410889,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      }
+    }
+  },
+  {
+    "appId": "com.blognawa.hottools",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9202666282653809,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.9364748001098633,
+        "richness": 3.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8395627737045288,
+        "richness": 5.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      }
+    }
+  },
+  {
+    "appId": "com.bluepearl.VitalImagingCentre",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9244935512542725,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8388137221336365,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 2.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8966540098190308,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 4.0
+      }
+    }
+  },
+  {
+    "appId": "com.bolshakovdenis.soundanalyzer",
+    "pp_category": "MICROPHONE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.910223126411438,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8657716512680054,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9029508829116821,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "com.bookt.llc.threebbm",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8549508452415466,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8307492733001709,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.5930064916610718,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 4.0
+      }
+    }
+  },
+  {
+    "appId": "com.briox.riversip.android.uk.irish",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9174469113349915,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.7289896607398987,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8475078344345093,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      }
+    }
+  },
+  {
+    "appId": "com.buggames.countryballs",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.7818019986152649,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8405705690383911,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8505496978759766,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      }
+    }
+  },
+  {
+    "appId": "com.buildfortheweb.tasks",
+    "pp_category": "CALENDAR",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8464285731315613,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8771133422851562,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9458452463150024,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "com.cardiovisual.app",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.7234300971031189,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.64794921875,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.6836852431297302,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      }
+    }
+  },
+  {
+    "appId": "com.carrier.caservicetech",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.898378849029541,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.9183630347251892,
+        "richness": 5.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8843540549278259,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      }
+    }
+  },
+  {
+    "appId": "com.centurymaxstudios",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8841508626937866,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8451786637306213,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8708876371383667,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      }
+    }
+  },
+  {
+    "appId": "com.choicehotels.android",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8409578800201416,
+        "richness": 10.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 9.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.666881263256073,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.723610520362854,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "com.churchlinkapp",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8727191686630249,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8607810735702515,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8429861068725586,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 8.0
+      }
+    }
+  },
+  {
+    "appId": "com.cisco.jabber.guest",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.7117068767547607,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8074508905410767,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.6284046769142151,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "com.coastguard",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8176826238632202,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8913657665252686,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 2.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9103387594223022,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "com.com2us.soccerspirits.normal2.freefull.google.global.android.common",
+    "pp_category": "CONTACT",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9020112752914429,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.7074332237243652,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.7993937730789185,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 4.0
+      }
+    }
+  },
+  {
+    "appId": "com.com2us.tinyfarm.normal3.freefull.google.global.android.common",
+    "pp_category": "CONTACT",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9256630539894104,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8771665692329407,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9223582744598389,
+        "richness": 6.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      }
+    }
+  },
+  {
+    "appId": "com.corrigo.intuit",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.920304536819458,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.9051573276519775,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9525258541107178,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "com.cosmobile.jetcontacts",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9045664072036743,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8493996858596802,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8572466969490051,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "com.cpe.birthdayphotostickers",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8257148265838623,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8078595399856567,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.7763813138008118,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      }
+    }
+  },
+  {
+    "appId": "com.creativephotoeditors.homeexteriorphotoframe",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9399300813674927,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8854005932807922,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.7893790006637573,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      }
+    }
+  },
+  {
+    "appId": "com.dartmouthhitchcock.android",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8557927012443542,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8483929634094238,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9331698417663574,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      }
+    }
+  },
+  {
+    "appId": "com.dating.hookup.androids",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.7356141209602356,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.7492387294769287,
+        "richness": 3.0,
+        "specificity": 4.0,
+        "semantic_relatedness": 2.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.855370283126831,
+        "richness": 5.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 4.0
+      }
+    }
+  },
+  {
+    "appId": "com.dbestapps.newyearphotoframes",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.7210916876792908,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.7770938873291016,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.7125541567802429,
+        "richness": 6.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      }
+    }
+  },
+  {
+    "appId": "com.ddog.framephotocollage",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.898902952671051,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.773938775062561,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.950550377368927,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      }
+    }
+  },
+  {
+    "appId": "com.dj.pad.music.pushpad.electro.house",
+    "pp_category": "MICROPHONE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8658875226974487,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.7578473091125488,
+        "richness": 5.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9058475494384766,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "com.droidheads.voicemailtoothfairyfree",
+    "pp_category": "MICROPHONE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8844652771949768,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.7753087878227234,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9094634652137756,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      }
+    }
+  },
+  {
+    "appId": "com.duy.pascal.compiler",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8856033682823181,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.9065065979957581,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.91996830701828,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      }
+    }
+  },
+  {
+    "appId": "com.ea.image.text",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.654415488243103,
+        "richness": 9.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.7831729650497437,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.739029049873352,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      }
+    }
+  },
+  {
+    "appId": "com.edelweiss.hijabkebayamuslimcamera",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.834739625453949,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.9081860780715942,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8593249320983887,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      }
+    }
+  },
+  {
+    "appId": "com.elvison.batterywidget",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9169999957084656,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.9105938673019409,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8121740221977234,
+        "richness": 6.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 2.0
+      }
+    }
+  },
+  {
+    "appId": "com.eniro.nauticalar",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9346804022789001,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.6578567028045654,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8458548784255981,
+        "richness": 5.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 4.0
+      }
+    }
+  },
+  {
+    "appId": "com.etl.eprocmobapp.procuretiger",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.5961008667945862,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.9032751321792603,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.7777022123336792,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 4.0
+      }
+    }
+  },
+  {
+    "appId": "com.eurotalk.uTalk",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.7321380972862244,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8097158670425415,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 2.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.786845326423645,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      }
+    }
+  },
+  {
+    "appId": "com.evergreen.zsilentCamera_plus",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.49913132190704346,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8861193656921387,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.7603242993354797,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      }
+    }
+  },
+  {
+    "appId": "com.examaxin.recorderscrrenredmoh.huncinmohsr",
+    "pp_category": "MICROPHONE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.7929479479789734,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.7856941819190979,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 2.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.939011812210083,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 4.0
+      }
+    }
+  },
+  {
+    "appId": "com.eyenetra.netrometer.netra",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.6667290925979614,
+        "richness": 9.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.6929308772087097,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.755975604057312,
+        "richness": 6.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 2.0
+      }
+    }
+  },
+  {
+    "appId": "com.fieldbit",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9056519865989685,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.7988476753234863,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8849268555641174,
+        "richness": 5.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 4.0
+      }
+    }
+  },
+  {
+    "appId": "com.filters.forMusically.filters4musically",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8030141592025757,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8818942308425903,
+        "richness": 3.0,
+        "specificity": 3.0,
+        "semantic_relatedness": 1.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9181410670280457,
+        "richness": 6.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "com.foremostmedia.hallcrestRinseCheck",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8731268644332886,
+        "richness": 10.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 3.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.844301164150238,
+        "richness": 5.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 2.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.6582157611846924,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "com.foursquare.robin",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.798438310623169,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.6953573822975159,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8387572765350342,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      }
+    }
+  },
+  {
+    "appId": "com.fredmeyer.mobile",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9404991269111633,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8706005811691284,
+        "richness": 5.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8536965847015381,
+        "richness": 5.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 3.0
+      }
+    }
+  },
+  {
+    "appId": "com.frontstar.birthdayphotoframe.photoframe",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.7263977527618408,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.9264609813690186,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8652358055114746,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 6.0
+      }
+    }
+  },
+  {
+    "appId": "com.frontstar.men.pro.shirt.photo.suit",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8968428373336792,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.9302915334701538,
+        "richness": 5.0,
+        "specificity": 3.0,
+        "semantic_relatedness": 2.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8683561086654663,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "com.galleryvault",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.847385048866272,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8769719004631042,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 2.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9007976055145264,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 2.0
+      }
+    }
+  },
+  {
+    "appId": "com.gamestar.perfectpiano",
+    "pp_category": "MICROPHONE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9692522883415222,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.6180009841918945,
+        "richness": 6.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9144761562347412,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 4.0
+      }
+    }
+  },
+  {
+    "appId": "com.gamevil.zenonia4.global",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8688678741455078,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.750218391418457,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8569238185882568,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "com.gec.TerraApp.Terra",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8662845492362976,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.9242209792137146,
+        "richness": 6.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8935955762863159,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "com.gecor.MolinaSegura",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.6251926422119141,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.837989091873169,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.6753291487693787,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      }
+    }
+  },
+  {
+    "appId": "com.geekyouup.android.widgets.battery",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8814871311187744,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.741651177406311,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 2.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8727821707725525,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 2.0
+      }
+    }
+  },
+  {
+    "appId": "com.github.skyfe79.lovely.film",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.7419474124908447,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8070664405822754,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.879237174987793,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "com.gl.senza",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.761495053768158,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8370852470397949,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8715835809707642,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      }
+    }
+  },
+  {
+    "appId": "com.glympse.android.auto",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.7775477766990662,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.5883175134658813,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8549983501434326,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "com.glympse.android.glympseexpress",
+    "pp_category": "CONTACT",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9462554454803467,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.6695310473442078,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.7381974458694458,
+        "richness": 6.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      }
+    }
+  },
+  {
+    "appId": "com.gogetcorp.roomdisplay.v6",
+    "pp_category": "CALENDAR",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8522291779518127,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8719548583030701,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.7511600255966187,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "com.google.android.apps.classroom",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.7559784054756165,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.9554133415222168,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 2.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9322214126586914,
+        "richness": 3.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 0.0
+      }
+    }
+  },
+  {
+    "appId": "com.google.android.wearable.app",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.7783260941505432,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.879057765007019,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8725671768188477,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 2.0
+      }
+    }
+  },
+  {
+    "appId": "com.gpsmycity.android.u20",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.7681938409805298,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8964376449584961,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.6953645944595337,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "com.gpsmycity.android.u35",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9091809391975403,
+        "richness": 9.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8836725950241089,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9038887619972229,
+        "richness": 5.0,
+        "specificity": 3.0,
+        "semantic_relatedness": 1.0
+      }
+    }
+  },
+  {
+    "appId": "com.gtype.harirayaphotoframe",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.7058171033859253,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8489037752151489,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8629946708679199,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      }
+    }
+  },
+  {
+    "appId": "com.gurtam.wiatag",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8337436318397522,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8750777244567871,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.5355353355407715,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      }
+    }
+  },
+  {
+    "appId": "com.healthinteract.myinteract",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9191855788230896,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8431702256202698,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8263810276985168,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 3.0
+      }
+    }
+  },
+  {
+    "appId": "com.hovans.autoguard",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9043347835540771,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.9242211580276489,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8929347395896912,
+        "richness": 6.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 4.0
+      }
+    }
+  },
+  {
+    "appId": "com.ikeyboard.theme.robotcat",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.873188853263855,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 2.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8960124254226685,
+        "richness": 6.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8367455005645752,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 4.0
+      }
+    }
+  },
+  {
+    "appId": "com.ikompoz.android.instant_translator",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8790818452835083,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8475112915039062,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.7088011503219604,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      }
+    }
+  },
+  {
+    "appId": "com.imagenes.luto",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8733590841293335,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.6634093523025513,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.7566179633140564,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "com.imvu.mobilecordova",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9176287055015564,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.7559395432472229,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.7873715162277222,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 3.0
+      }
+    }
+  },
+  {
+    "appId": "com.inglesdivino.imagestovideo",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9548471570014954,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 9.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.9014263153076172,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 9.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9149638414382935,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      }
+    }
+  },
+  {
+    "appId": "com.jm.livetrips",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9464956521987915,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.9066470861434937,
+        "richness": 5.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9474234580993652,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      }
+    }
+  },
+  {
+    "appId": "com.kaldroid.bbf",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.917282223701477,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8755768537521362,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8670126795768738,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      }
+    }
+  },
+  {
+    "appId": "com.katsana.apps.android",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9222819805145264,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.931343138217926,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.7892725467681885,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      }
+    }
+  },
+  {
+    "appId": "com.kayak.studio.gifmaker",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8960428237915039,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.9265658855438232,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 2.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8073685765266418,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 2.0
+      }
+    }
+  },
+  {
+    "appId": "com.keepandshare.keepshare",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8760581016540527,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.9349414706230164,
+        "richness": 6.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.704158365726471,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      }
+    }
+  },
+  {
+    "appId": "com.keyboard.theme.drops",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9345991611480713,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8884916305541992,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 2.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8418103456497192,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 2.0
+      }
+    }
+  },
+  {
+    "appId": "com.kisscarservice.mobile.android",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.6501309871673584,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.6341986656188965,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.906633198261261,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "com.knowyourcustomer.idcheck",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8709648251533508,
+        "richness": 9.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.7893248200416565,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9043591022491455,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "com.lancofcu.grip",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.809576153755188,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 2.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.9076405763626099,
+        "richness": 6.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9096267223358154,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      }
+    }
+  },
+  {
+    "appId": "com.lifesaverapp",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9074865579605103,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8632700443267822,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.7420153617858887,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      }
+    }
+  },
+  {
+    "appId": "com.lighthouse1.mobilebenefits.pyx",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8469833135604858,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8807659149169922,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9171990156173706,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "com.lily.times.tweenshusky.all",
+    "pp_category": "MICROPHONE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8565499782562256,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8786402344703674,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9163851737976074,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      }
+    }
+  },
+  {
+    "appId": "com.lonelycatgames.Xplore",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.864558219909668,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8796448707580566,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.7696235179901123,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 4.0
+      }
+    }
+  },
+  {
+    "appId": "com.looket.jkids",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9272610545158386,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8417118787765503,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9044920802116394,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "com.mcb.chennaiparent.activity",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9131391644477844,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.7961387038230896,
+        "richness": 6.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8950579166412354,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      }
+    }
+  },
+  {
+    "appId": "com.miccron.coinoscope",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.6864308714866638,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.6024652719497681,
+        "richness": 6.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.6173834800720215,
+        "richness": 5.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 3.0
+      }
+    }
+  },
+  {
+    "appId": "com.mobisys.biod.questabird",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8460721969604492,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.7815648317337036,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8241369724273682,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      }
+    }
+  },
+  {
+    "appId": "com.mobpixel.photo.editorfordancer",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9554027318954468,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 9.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8361507654190063,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9223380088806152,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 4.0
+      }
+    }
+  },
+  {
+    "appId": "com.mrsoft.dgagrawal",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.6998175382614136,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.7868539690971375,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 2.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8831018805503845,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 3.0
+      }
+    }
+  },
+  {
+    "appId": "com.mtdata.UnicityWinnipeg",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8919636607170105,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.5800970196723938,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8633378148078918,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      }
+    }
+  },
+  {
+    "appId": "com.munwarapps.lovelycouplephotosuit",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9002732634544373,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8555048108100891,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8844383955001831,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 8.0
+      }
+    }
+  },
+  {
+    "appId": "com.mvltr.animaleyemask",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9356446266174316,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8664475083351135,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9189380407333374,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 4.0
+      }
+    }
+  },
+  {
+    "appId": "com.nanamusic.android",
+    "pp_category": "MICROPHONE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8961645364761353,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.9206115007400513,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9051054120063782,
+        "richness": 5.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 3.0
+      }
+    }
+  },
+  {
+    "appId": "com.neaststudios.procapture.free",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8348486423492432,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8586141467094421,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9012081027030945,
+        "richness": 6.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      }
+    }
+  },
+  {
+    "appId": "com.next.womendayphotoframes",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.761641263961792,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.7003940939903259,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.7684873342514038,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      }
+    }
+  },
+  {
+    "appId": "com.nochinodigital.smokerreducer",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8810184001922607,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8387591242790222,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8393946290016174,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      }
+    }
+  },
+  {
+    "appId": "com.nuance.powershare_mobile",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.4759714603424072,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.5596470832824707,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.4394763708114624,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      }
+    }
+  },
+  {
+    "appId": "com.occhipinti.patrick.pocketsos",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9209791421890259,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 9.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.9219081401824951,
+        "richness": 6.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9226241707801819,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      }
+    }
+  },
+  {
+    "appId": "com.odnklassac.weathermenow3",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9399230480194092,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 9.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.707545816898346,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9063082933425903,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      }
+    }
+  },
+  {
+    "appId": "com.olo.cousins",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.7557297348976135,
+        "richness": 10.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.6934638619422913,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.7804455757141113,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      }
+    }
+  },
+  {
+    "appId": "com.omgm.easytaxi.android.driver",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8495572209358215,
+        "richness": 10.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8245779275894165,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.6623826026916504,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      }
+    }
+  },
+  {
+    "appId": "com.owngames.agentdodge",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8479081988334656,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.738268256187439,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8403531312942505,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      }
+    }
+  },
+  {
+    "appId": "com.parrot.freeflightthermal",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8615697622299194,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8637087345123291,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8918299078941345,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "com.peacehealthrides",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.834490180015564,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.9564056992530823,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.874445915222168,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "com.performancephones.crewnerd",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.7100502252578735,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.9088897109031677,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8877500295639038,
+        "richness": 6.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "com.photolabs.instagrids",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9332860112190247,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.6731507778167725,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8529921770095825,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 8.0
+      }
+    }
+  },
+  {
+    "appId": "com.playonrecorder.cloudapp",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.6194279789924622,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.7290971875190735,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.6877279877662659,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      }
+    }
+  },
+  {
+    "appId": "com.pmqsoftware.game.en.only.one",
+    "pp_category": "MICROPHONE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.6704943180084229,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.6663876175880432,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.6668793559074402,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      }
+    }
+  },
+  {
+    "appId": "com.punchh.smashburger",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9259447455406189,
+        "richness": 10.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.886375367641449,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8360476493835449,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "com.rayg.sirens",
+    "pp_category": "CONTACT",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.923255205154419,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 9.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8025076389312744,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8690528273582458,
+        "richness": 6.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      }
+    }
+  },
+  {
+    "appId": "com.readwhere.whitelabel.punjabitribune",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8928513526916504,
+        "richness": 10.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.7887574434280396,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8450272083282471,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      }
+    }
+  },
+  {
+    "appId": "com.rentcars.rentcarscom",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8033168911933899,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8268501162528992,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.683190107345581,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 4.0
+      }
+    }
+  },
+  {
+    "appId": "com.sahibtibba.pipcamera",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8047311305999756,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.6355128884315491,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.5120865106582642,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      }
+    }
+  },
+  {
+    "appId": "com.sanaedutech.madurai",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9049579501152039,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.26588964462280273,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8674426674842834,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "com.sarihiari.pinnr",
+    "pp_category": "CONTACT",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8171048760414124,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.9444113969802856,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8343120813369751,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "com.scoompa.collagemaker.video",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.7561448216438293,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.7002586722373962,
+        "richness": 3.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 0.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8911625146865845,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      }
+    }
+  },
+  {
+    "appId": "com.selfpoint.koshervillage",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9427086114883423,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 3.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.9503293037414551,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 3.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.882400631904602,
+        "richness": 6.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      }
+    }
+  },
+  {
+    "appId": "com.servizing.society",
+    "pp_category": "SMS",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9291556477546692,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8948906660079956,
+        "richness": 3.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 2.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.7793660759925842,
+        "richness": 5.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 4.0
+      }
+    }
+  },
+  {
+    "appId": "com.shark.hdphotoframes",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8088061809539795,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8949553370475769,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9448092579841614,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      }
+    }
+  },
+  {
+    "appId": "com.shearshare.android",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.6349138021469116,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8289463520050049,
+        "richness": 5.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9070733189582825,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "com.si.junagadhtourism",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.924443781375885,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.9425105452537537,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.7027866840362549,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      }
+    }
+  },
+  {
+    "appId": "com.skymet.collect.android",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.6646664142608643,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.9265159368515015,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.912891149520874,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      }
+    }
+  },
+  {
+    "appId": "com.smartfm_reach.al_majaz",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8899515867233276,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.839184582233429,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.923184871673584,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      }
+    }
+  },
+  {
+    "appId": "com.smartphoneremote.androidscriptfree",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8887331485748291,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8271180987358093,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8367011547088623,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 4.0
+      }
+    }
+  },
+  {
+    "appId": "com.smsBlocker",
+    "pp_category": "SMS",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.6867243051528931,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.6215474009513855,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8280083537101746,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "com.smsrobot.selfie",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9276260733604431,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8255297541618347,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.739841878414154,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "com.snappii_corp.vehicle_inspection_and_maintenance",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8593745827674866,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8192492723464966,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8575551509857178,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 0.0
+      }
+    }
+  },
+  {
+    "appId": "com.srapps.quotesnjokeslitenew",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9294004440307617,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.9358070492744446,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8593819737434387,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      }
+    }
+  },
+  {
+    "appId": "com.stsa.info.androidtracker",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8751704096794128,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8294864892959595,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9440573453903198,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 4.0
+      }
+    }
+  },
+  {
+    "appId": "com.sunny.see.moon.valentines.day.photo.frames.eighteen.thisyear",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8068560361862183,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.423905611038208,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8600475192070007,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "com.sweetringplus.android",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.6078809499740601,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8105093836784363,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9311155080795288,
+        "richness": 6.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 4.0
+      }
+    }
+  },
+  {
+    "appId": "com.swg.qfmmobile",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8194443583488464,
+        "richness": 6.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.771821916103363,
+        "richness": 6.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8784117698669434,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 4.0
+      }
+    }
+  },
+  {
+    "appId": "com.synchronoss.pcloud.android.syncdrive",
+    "pp_category": "CONTACT",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8430277109146118,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.7409542798995972,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8640363812446594,
+        "richness": 10.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 4.0
+      }
+    }
+  },
+  {
+    "appId": "com.synerdream.pocketsinger",
+    "pp_category": "MICROPHONE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8157169222831726,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.7766752243041992,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.7864272594451904,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "com.szs.cinema.uae",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.893763542175293,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.7911209464073181,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8936793804168701,
+        "richness": 3.0,
+        "specificity": 3.0,
+        "semantic_relatedness": 1.0
+      }
+    }
+  },
+  {
+    "appId": "com.tanishka.jesus.photoframes",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.652358889579773,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 9.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8192619681358337,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8276611566543579,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      }
+    }
+  },
+  {
+    "appId": "com.tapevoice",
+    "pp_category": "MICROPHONE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9028841853141785,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.7022268772125244,
+        "richness": 5.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 3.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9119731187820435,
+        "richness": 6.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      }
+    }
+  },
+  {
+    "appId": "com.tecogis.lead_retrieval",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8398968577384949,
+        "richness": 6.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.9179847240447998,
+        "richness": 5.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8591704368591309,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "com.tellody",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.6989471912384033,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8229050636291504,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9020242691040039,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 6.0
+      }
+    }
+  },
+  {
+    "appId": "com.tinybeans",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.851987898349762,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8881661295890808,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9186619520187378,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      }
+    }
+  },
+  {
+    "appId": "com.titan.tpnature",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9180670976638794,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.6326011419296265,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8314574360847473,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      }
+    }
+  },
+  {
+    "appId": "com.tomatomusic.newringtones",
+    "pp_category": "CONTACT",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8141761422157288,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8324986100196838,
+        "richness": 5.0,
+        "specificity": 4.0,
+        "semantic_relatedness": 2.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.846544623374939,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      }
+    }
+  },
+  {
+    "appId": "com.topmobileringtones.gangsterringtonesfree",
+    "pp_category": "CONTACT",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8569043874740601,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8241481781005859,
+        "richness": 5.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 2.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8394217491149902,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      }
+    }
+  },
+  {
+    "appId": "com.topstar.jacket.men.photo.suit",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9015326499938965,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8557330965995789,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9596448540687561,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      }
+    }
+  },
+  {
+    "appId": "com.touchnote.android",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8615387678146362,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8942774534225464,
+        "richness": 6.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8214460611343384,
+        "richness": 6.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      }
+    }
+  },
+  {
+    "appId": "com.tracker.mushroom",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9203623533248901,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8124327659606934,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8146345615386963,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "com.trackyapps.street_lens",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.782167911529541,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.9417586326599121,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.787110447883606,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "com.trimble.outdoors.tnm.android",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.907374382019043,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.847653329372406,
+        "richness": 6.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.827364444732666,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      }
+    }
+  },
+  {
+    "appId": "com.tsm.us1031",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8573353290557861,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.6611121296882629,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9185746908187866,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 2.0
+      }
+    }
+  },
+  {
+    "appId": "com.tsm.wfgr",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8897282481193542,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.9119816422462463,
+        "richness": 5.0,
+        "specificity": 3.0,
+        "semantic_relatedness": 2.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8705331087112427,
+        "richness": 6.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      }
+    }
+  },
+  {
+    "appId": "com.tss21.interpreter.sea",
+    "pp_category": "MICROPHONE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9472429752349854,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.7859939336776733,
+        "richness": 6.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.6784509420394897,
+        "richness": 6.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "com.tuangiao.tumblrdownloader",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8048701882362366,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.9053542613983154,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.918696403503418,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      }
+    }
+  },
+  {
+    "appId": "com.ulm.circuitcalculator",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.6028435826301575,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.904970109462738,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9544378519058228,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      }
+    }
+  },
+  {
+    "appId": "com.velan.xmaspipfx",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8688818216323853,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.810289740562439,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.5785122513771057,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 2.0
+      }
+    }
+  },
+  {
+    "appId": "com.ventipix.assetManager",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.7974463701248169,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8574874401092529,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9140076637268066,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      }
+    }
+  },
+  {
+    "appId": "com.verizon.messaging.vzmsgs",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9142917990684509,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8688463568687439,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9384872317314148,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      }
+    }
+  },
+  {
+    "appId": "com.vidates.vid_lite",
+    "pp_category": "CONTACT",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8206815719604492,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8710514307022095,
+        "richness": 6.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.778607964515686,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      }
+    }
+  },
+  {
+    "appId": "com.video.master",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.7896442413330078,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8780105710029602,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8429548740386963,
+        "richness": 5.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 4.0
+      }
+    }
+  },
+  {
+    "appId": "com.voolenstudios.Waterfall.photo.editor",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.88910973072052,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8930248022079468,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.7475440502166748,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      }
+    }
+  },
+  {
+    "appId": "com.vtcreator.android360",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.905534029006958,
+        "richness": 6.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.9095582962036133,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9180755019187927,
+        "richness": 5.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "com.wallpapergalaxys9.galaxys9",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.5270376801490784,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.6091861128807068,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8728734254837036,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      }
+    }
+  },
+  {
+    "appId": "com.wbff.android.weather",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8573720455169678,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.9415230751037598,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.887468695640564,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      }
+    }
+  },
+  {
+    "appId": "com.weddingcolors.devoscar.app",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.7493447661399841,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8853037357330322,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 2.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8550131320953369,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "com.wildfire.wildfire",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9030003547668457,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8169717192649841,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.6780483722686768,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 2.0
+      }
+    }
+  },
+  {
+    "appId": "com.wonderfulgames.talkingcatleo",
+    "pp_category": "MICROPHONE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.7431670427322388,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.5342605710029602,
+        "richness": 5.0,
+        "specificity": 4.0,
+        "semantic_relatedness": 2.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.901135265827179,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "com.woodlandscenics.modelinventory",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8792310357093811,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8392261862754822,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 2.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.7769626975059509,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 2.0
+      }
+    }
+  },
+  {
+    "appId": "com.xenstudios.army.photosuit",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.7678489685058594,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.821418285369873,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.6154897212982178,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      }
+    }
+  },
+  {
+    "appId": "com.yale.homeview",
+    "pp_category": "MICROPHONE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.5959295034408569,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.6513335108757019,
+        "richness": 5.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 3.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.7461153864860535,
+        "richness": 5.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 0.0
+      }
+    }
+  },
+  {
+    "appId": "com.yellowpages.android.gas",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.778845489025116,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.9466086030006409,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8708134293556213,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      }
+    }
+  },
+  {
+    "appId": "com.youngmedia.wlns",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9207167625427246,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.9172345995903015,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.5909669399261475,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 0.0
+      }
+    }
+  },
+  {
+    "appId": "com.zenithBank.eazymoney",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8860256671905518,
+        "richness": 5.0,
+        "specificity": 3.0,
+        "semantic_relatedness": 3.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.9007734060287476,
+        "richness": 2.0,
+        "specificity": 3.0,
+        "semantic_relatedness": 0.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8164688348770142,
+        "richness": 3.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 0.0
+      }
+    }
+  },
+  {
+    "appId": "com.zuidsoft.loopstation2",
+    "pp_category": "MICROPHONE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8453115820884705,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.7674471139907837,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.810521125793457,
+        "richness": 5.0,
+        "specificity": 4.0,
+        "semantic_relatedness": 2.0
+      }
+    }
+  },
+  {
+    "appId": "coocent.tools.voicerecorder",
+    "pp_category": "MICROPHONE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.7760752439498901,
+        "richness": 6.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.7497706413269043,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9045732021331787,
+        "richness": 6.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      }
+    }
+  },
+  {
+    "appId": "crazy.snap.photo.effect.editor.snap.pic.collage.insta.square.snap.effect.app.free",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9382118582725525,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.7836698889732361,
+        "richness": 6.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9140141010284424,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      }
+    }
+  },
+  {
+    "appId": "cyb.satheesh.annauniversitysyllabusr08",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9588701725006104,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.721671998500824,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9376382231712341,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      }
+    }
+  },
+  {
+    "appId": "cz.pmqvyuka.anglictina.slovicka1",
+    "pp_category": "MICROPHONE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.7560860514640808,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8960152268409729,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9450689554214478,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 8.0
+      }
+    }
+  },
+  {
+    "appId": "de.envire.jwankel.pitchtuner",
+    "pp_category": "MICROPHONE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8232479095458984,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.9120193123817444,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8573480844497681,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      }
+    }
+  },
+  {
+    "appId": "edu.ecu.pirateportmobile",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.911797046661377,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.6595050096511841,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8807438611984253,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      }
+    }
+  },
+  {
+    "appId": "errows.photoeditor.spring",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8818206787109375,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 9.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.7419528961181641,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9118483662605286,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 8.0
+      }
+    }
+  },
+  {
+    "appId": "errows.photoeditor.sunglassesphotoeditor",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8986990451812744,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8316433429718018,
+        "richness": 5.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.794183075428009,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      }
+    }
+  },
+  {
+    "appId": "eu.aagames.widget.battery.beautiful",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8121997117996216,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.4795345962047577,
+        "richness": 3.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 1.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.626641035079956,
+        "richness": 5.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 0.0
+      }
+    }
+  },
+  {
+    "appId": "freeappshouse.capridresspantpentwomenfashion",
+    "pp_category": "CAMERA",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9527080059051514,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.46350544691085815,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.5928725004196167,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "gr.pixelab.sketch",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9026529788970947,
+        "richness": 10.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8635022044181824,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8640214204788208,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      }
+    }
+  },
+  {
+    "appId": "ie.flipdish.stefsfishandchips",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.6844196319580078,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.7356902956962585,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8065257668495178,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 3.0
+      }
+    }
+  },
+  {
+    "appId": "il.co.smedia.callrecorder.yoni",
+    "pp_category": "MICROPHONE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8181800842285156,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.6224072575569153,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8143715858459473,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      }
+    }
+  },
+  {
+    "appId": "io.moonlighting.pixslider",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.6679611802101135,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.7619737982749939,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.7775159478187561,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "it.mobistego",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8921224474906921,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.9185904264450073,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.7668976783752441,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      }
+    }
+  },
+  {
+    "appId": "led.android.bostoncoffeehouse",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8289541602134705,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8365115523338318,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8282074332237244,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      }
+    }
+  },
+  {
+    "appId": "led.android.littlebangkok",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9288681745529175,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.7843902111053467,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9189299941062927,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 4.0
+      }
+    }
+  },
+  {
+    "appId": "ma.mazdev.adanmuslim",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.7226307988166809,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8993119597434998,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8883718252182007,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      }
+    }
+  },
+  {
+    "appId": "mountainpixels.anniversarygif.phframe",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.7639604210853577,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.896067202091217,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 3.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9036476612091064,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      }
+    }
+  },
+  {
+    "appId": "ms.dev.luaplayer_va",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8517407178878784,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8682634830474854,
+        "richness": 3.0,
+        "specificity": 3.0,
+        "semantic_relatedness": 1.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.6011630296707153,
+        "richness": 5.0,
+        "specificity": 3.0,
+        "semantic_relatedness": 2.0
+      }
+    }
+  },
+  {
+    "appId": "net.applabsinc.android_adultcoloringbookinspirationart",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9085441827774048,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.6045703887939453,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8838693499565125,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 1.0
+      }
+    }
+  },
+  {
+    "appId": "net.serverdata.ringscape",
+    "pp_category": "CONTACT",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8472887277603149,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.9118950963020325,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 3.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8618686199188232,
+        "richness": 6.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      }
+    }
+  },
+  {
+    "appId": "net.therap.app",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.7091068625450134,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8808969855308533,
+        "richness": 6.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 2.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8424485921859741,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "nl.fotoview.shatter",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8754976391792297,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 9.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.6930835843086243,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8184929490089417,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      }
+    }
+  },
+  {
+    "appId": "org.carolinashealthcare.onecarolinas",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9055579900741577,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.7870109677314758,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9113972187042236,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      }
+    }
+  },
+  {
+    "appId": "org.geogebra.android.g3d",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.906220555305481,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8631359338760376,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.5819979310035706,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 2.0
+      }
+    }
+  },
+  {
+    "appId": "org.ibeccato.photoczip",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9343651533126831,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.904399037361145,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.7994981408119202,
+        "richness": 6.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      }
+    }
+  },
+  {
+    "appId": "org.prowl.wifiscanner",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9551780223846436,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8581498861312866,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8778666853904724,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      }
+    }
+  },
+  {
+    "appId": "pixel.art.no.draw.color.by.number.sandbox.coloring",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9177454710006714,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8582674264907837,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8516144752502441,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "radonsoft.net.soundcheck",
+    "pp_category": "MICROPHONE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8439489006996155,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.7452468872070312,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.4923178553581238,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 0.0
+      }
+    }
+  },
+  {
+    "appId": "radonsoft.net.spectralview",
+    "pp_category": "MICROPHONE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8281100988388062,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.7983278036117554,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 8.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9052577018737793,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 7.0
+      }
+    }
+  },
+  {
+    "appId": "regola.flagmii",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.934100866317749,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.9053046107292175,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8748921155929565,
+        "richness": 8.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 3.0
+      }
+    }
+  },
+  {
+    "appId": "talking.toy.santa.claus",
+    "pp_category": "MICROPHONE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8553349375724792,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.7689297199249268,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8297361135482788,
+        "richness": 6.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 3.0
+      }
+    }
+  },
+  {
+    "appId": "timeclock365.live",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9229466319084167,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.9526507258415222,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.7467728853225708,
+        "richness": 5.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 2.0
+      }
+    }
+  },
+  {
+    "appId": "tools.photo.hd.camera",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8302698135375977,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8659379482269287,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9044068455696106,
+        "richness": 3.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 1.0
+      }
+    }
+  },
+  {
+    "appId": "tuneself.android.reverse.talk.backward.free",
+    "pp_category": "MICROPHONE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9122037291526794,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8129489421844482,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8161739706993103,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      }
+    }
+  },
+  {
+    "appId": "uk.co.piota.schools",
+    "pp_category": "CALENDAR",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9167893528938293,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.9159676432609558,
+        "richness": 5.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9409439563751221,
+        "richness": 6.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 4.0
+      }
+    }
+  },
+  {
+    "appId": "us.plurib.youarehere",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8624531626701355,
+        "richness": 9.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.839814305305481,
+        "richness": 8.0,
+        "specificity": 9.0,
+        "semantic_relatedness": 3.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.7081164717674255,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      }
+    }
+  },
+  {
+    "appId": "video.player.hd.videoplayer",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.8762102127075195,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 7.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8939366340637207,
+        "richness": 5.0,
+        "specificity": 3.0,
+        "semantic_relatedness": 2.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.9183740615844727,
+        "richness": 8.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 4.0
+      }
+    }
+  },
+  {
+    "appId": "video.player.mediaplayer.hdvideoplayer",
+    "pp_category": "STORAGE",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9407482147216797,
+        "richness": 9.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 6.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.8721781969070435,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 3.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.7583737373352051,
+        "richness": 8.0,
+        "specificity": 8.0,
+        "semantic_relatedness": 5.0
+      }
+    }
+  },
+  {
+    "appId": "yong.tools.life.weather",
+    "pp_category": "LOCATION",
+    "scores": {
+      "no_similarapp_proposition": {
+        "bert_score": 0.9200059175491333,
+        "richness": 6.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 4.0
+      },
+      "no_general_similarapp": {
+        "bert_score": 0.6227028369903564,
+        "richness": 4.0,
+        "specificity": 5.0,
+        "semantic_relatedness": 2.0
+      },
+      "no_general_proposition": {
+        "bert_score": 0.8788118958473206,
+        "richness": 5.0,
+        "specificity": 6.0,
+        "semantic_relatedness": 6.0
+      }
+    }
+  }
+]
